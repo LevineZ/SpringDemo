@@ -11,3 +11,4 @@ IOC方式
 
 
 
+applicationContext.xml是Spring的核心配置文件，通过关键字c即可获取Category对象，该对象获取的时候，即被注入了字符串"category 1“到name属性中 
